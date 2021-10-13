@@ -1,11 +1,12 @@
 function Todo({ todo, toggle }) {
     function check() {
-      toggle(todo.id);
+      toggle(todo.id.2);
     }
     return (
       <div>
-        <input type="checkbox" onChange={check} checked={todo.completed} />
+        <input type="checkbox" onChange={check} checked={todo.cleared} />
         {todo.name}
+        {todo.completed}
       </div>
     );
   }
