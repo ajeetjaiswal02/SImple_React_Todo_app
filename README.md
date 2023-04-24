@@ -68,7 +68,7 @@ For your PR to count it must be:
 3. Would also help participants who are not familiar with development but are eager to participate in open source.
 
 
-# Leetcode Collections of Hard Problems:
+# Simple_React_Todo_app:
 
 An exhaustive collection of Leetcode Hard Level Questions With Best Time and Space Complexity.
 
