@@ -84,7 +84,7 @@ An exhaustive collection of Leetcode Hard Level Questions With Best Time and Spa
 
 > Clone the forked repository from your account
 
-> code in react js with improment 
+> code in react js with improvement 
 
 > Commit your changes with an appropriate message.
 
